@@ -10,4 +10,4 @@
 
 實現了項目的新增、刪除、修改與編輯
 
-[線上 DEMO](https://qq076qq076.github.io/dailydrinks/)
+![image](https://github.com/paulDome/dailydrinks/blob/master/demo.png)
